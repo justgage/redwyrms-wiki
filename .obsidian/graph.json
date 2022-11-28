@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Threat",
+      "color": {
+        "a": 1,
+        "rgb": 15536658
+      }
+    },
+    {
+      "query": "tag:#HistoricalFigure",
+      "color": {
+        "a": 1,
+        "rgb": 3756916
+      }
+    },
+    {
+      "query": "tag:#Friend",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#Session",
+      "color": {
+        "a": 1,
+        "rgb": 852167
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.581184895833333,
+  "repelStrength": 12.2916666666667,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.31434474036947607,
+  "close": true
+}

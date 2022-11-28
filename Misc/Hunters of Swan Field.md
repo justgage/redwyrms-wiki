@@ -1,0 +1,1 @@
+We heard in [[Swan Field]] that there were some hunters in the Verwood as the Fey were fleeing.  We found two bodies in the forest and collected a maple leaf quiver and belt buckle from one and a hunting knife and mess kit from the other

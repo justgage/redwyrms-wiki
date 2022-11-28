@@ -1,0 +1,1 @@
+See: [[Crown of High Tatra]]

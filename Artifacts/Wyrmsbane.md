@@ -1,0 +1,1 @@
+Three identical spears were forged by [[Mondath]], but were likely enchanted by someone else.

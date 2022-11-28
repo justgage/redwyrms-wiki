@@ -1,0 +1,1 @@
+Elf Wizard, motivated to find a spell book

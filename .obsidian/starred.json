@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Party Inventory",
+      "path": "Party Inventory.md"
+    },
+    {
+      "type": "file",
+      "title": "Unknowns",
+      "path": "ToDo.md"
+    },
+    {
+      "type": "file",
+      "title": "Deln Eschondi Lair",
+      "path": "Locations/Maschs (country)/Deln Eschondi Lair.md"
+    }
+  ]
+}

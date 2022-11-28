@@ -1,0 +1,9 @@
+[[King Orlan Baswerk]]
+
+Castle Baswerk was constructed during the Reign of [[King Albon Baswerk]] when Orlan was only a boy. Young Orlan loved the castle construction site and spent much of his youth learning various trades from the masters who were building his father's castle. When Orlan was just a lad, his best friend was a young silver dragonborn named [[Galleon Curth]]. The two were very close and spent every day together. Much of the book is stories of Orlan and Galleon getting into trouble as kids. Hunting in the [[Charnwood Mountians]],.. excursions into the [[Yewborn Forest]]... ghost hunting near edge of the [[Kingsfire Barrens]]... mountain climbing up to the top of [[Regal Peak]].  Once Orlan was crowned as King of the [[Mellow Sea]], the two fought off goblin invaders from the Upper Verwood and they protected the region from pirates in [[Mist Bay]].
+
+The book goes on to talk about the early [[Mellow Sea Dragon Battles]] and how one particular battle occurred during a tournament at [[Castle Baswerk]]. Orlan happened to be wearing his crown (the description fits the [[Crown of High Tatra]] except the gem stones in the crown were all different colors) and when he was wearing the crown he was immune to the breath of the dragons who attacked. From that time forward he always wore the crown into battle against the dragons and he rarely ever took it off except to sleep. The book has nothing but glowing praise of Galleon and his bravery. It talks of him using the ancient [[Wyrmsbane]] Spear to defeat the dragons and how he was never afraid to face them in battle.
+
+The book only briefly mentions [[Deln Eschondi]] as the King's Wizard. It talks about how Deln was constantly creating potions of flying so the knights could take to the air against the dragons when they attacked. It also mentions how Deln tok a lot of interest in everything magical, especially the Crown.
+
+The book never mentions High Tatra or Dragon Masters.
