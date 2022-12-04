@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "White Masked Man.md",
+                "file": "NPCs/White Masked Man.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,14 +55,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Characters/Verwood Forest Dreams.md",
+                "file": "Baswerk.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Slack Session 8 .5 - Regendy.md",
+                "file": "Baswerk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Slack Session 8 .5 - Regendy.md",
+                "file": "Baswerk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Slack Session 8 .5 - Regendy.md"
+                "file": "Baswerk.md"
               }
             }
           },
@@ -186,17 +186,17 @@
     "direction": "horizontal",
     "width": 363.5
   },
-  "active": "547cf034f1809a82",
+  "active": "ed060bd6aaeb65ed",
   "lastOpenFiles": [
-    "White Masked Man.md",
-    "Player Characters/Verwood Forest Dreams.md",
+    "Artifacts/Books/-Hextor's Hammer Crater and the Blow that Shook the World-.md",
+    "Locations/Divided Desert/Hextor's Hammer Crater.md",
     "Session Notes/Slack Session 8 .5 - Regendy.md",
-    "Masch.md",
-    "Mellow Sea.md",
-    "Orlan's crown.md",
-    "NPCs/Gods/Boccob.md",
-    "README.md",
-    "NPCs/Gods/Erythnul.md",
-    "Artifacts/Books/-Castle Baswerk and the Tales of King Orlan Baswerk-.md"
+    "Images/Pasted image 20221003233738.png",
+    "Images/Pasted image 20221127213717.png",
+    "Player Characters/Chaucerian.md",
+    "Player Characters/Naefir.md",
+    "NPCs/White Masked Man.md",
+    "NPCs/Man in the Mask.md",
+    "NPCs/Gods/The Many.md"
   ]
 }
