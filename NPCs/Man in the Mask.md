@@ -2,4 +2,8 @@ From session 3 notes: Before they left town they checked in on Leah to make sure
 
 He has some connections with the [[Divided Desert]] and [[Shazi worm]], but Naefir can't remember the details.
 
+Kem saw him enter the mausoleum of "[[Vincent Arcandor]]" in the Divided desert, either [[Dasir]] or [[Bur-Aswan]]
+
+Arcandor, the family, has a wizard spell called Arcandor's wilting that draws all the moisture out of someone.   
+
 #Threat 

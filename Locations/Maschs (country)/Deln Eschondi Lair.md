@@ -92,7 +92,7 @@ List of books found in [[Deln Eschondi Lair]].  THe  books taken by [[Kem]] and 
   "The Waning"
   80 "The Archer's Observances"
   =="The Sage of [[Bitterroot]]"
-"The Hand and the Eye, [[Vecna]]"==
+"[[The Hand and the Eye]], [[Vecna]]"==
   "The Song of the Burning Blade"
   "Civilization"
   "Lion of Leoport"

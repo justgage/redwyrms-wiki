@@ -5,8 +5,8 @@
 	- 👈**Left**: Angels, Gods, People all combined to fight [[Erythnul]].
 	- This temple seems to be to a shrine to [[Boccob]] (the God of knowledge and magic) that [[Deln Eschondi|Deln]] Repourposed [[#^3626fc|🔗]]
 - [[Kem]] takes out the gizzard of the [[Spider Dragon]] and discovers it has evocation magic and can produce magical flames that ***double the spiders it touches***. [[#^97b26e]] 
-- [[Naefir]] Reads [[-Castle Baswerk and the Tales of King Orlan Baswerk-]] and [[-The History of the Kings and Queens of Masch-]]
-- [[Kem]] lookd for information about the [[White Masked Man]]
+- [[Naefir]] Reads [[-Castle Baswerk and the Tales of King Orlan Baswerk-]] and [[-The History of the Kings and Queens of Masch-]] and [[-Hextor's Hammer Crater and the Blow that Shook the World-]]
+- [[Kem]] lookd for information about the [[White Masked Man]] and read [[-Monsters of the Divided Desert and the High Plateau-]]  and [[-The Legacy of the Oath of Shadows-]]
 
 
 ## Raw Thread
