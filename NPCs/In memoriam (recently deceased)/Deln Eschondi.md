@@ -10,4 +10,6 @@ He has lived over 250 years, not natural for a Tiefling
 His quest was to resotre [[Crown of High Tatra]]
 Has the dagger that Darkus wants
 
+- [[Dervin Eschondi]]
+
 #Threat

@@ -18,7 +18,7 @@ As the party finally defeated Deln, his body formed into a grey mist and floated
 
 The party realized that Deln might be returning to his coffin. They ran into the laboratory and found Darkus’ body on the floor with two small puncture wounds in his neck. They helped him and he was able to get up and go with the party though he was still very pale.
 
-In the crypt, they found Deln’s body in the coffin. They drove a sharpened wooden javelin through his chest and discovered the magical dagger that Deln had used to travel. Chaucerion attempted to get the dagger to take him some place. It spoke to him in a Southern Gordon draw and he found out its name was [[Gillious, the Dagger]]. Gillious took some of the party to Ivy on the Mist to get some holy wafers and the body of Flaronia, [[female red dragon]]. They performed the ritual on Deln’s body by sticking the holy wafers in his mouth and cutting off his head and burying him with a grave marker.  
+In the crypt, they found Deln’s body in the coffin. They drove a sharpened wooden javelin through his chest and discovered the magical dagger that Deln had used to travel. Chaucerion attempted to get the dagger to take him some place. It spoke to him in a Southern Gordon draw and he found out its name was [[Gillious, the Dagger]]. Gillious took some of the party to Ivy on the Mist to get some holy wafers and the body of Flaronia, [[Flarina, the female red dragon]]. They performed the ritual on Deln’s body by sticking the holy wafers in his mouth and cutting off his head and burying him with a grave marker.  
 
 They also found a portal in the supply room and Thorontor activated it to reveal a prison on the other side. Gillious told the party that the portal went through to the dungeons of [[Castle Baswerk]].
 

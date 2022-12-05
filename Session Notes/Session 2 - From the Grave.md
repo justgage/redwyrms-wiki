@@ -25,7 +25,7 @@ The heroes could still see the ground shaking under the piles of dirt that Naefi
 
   
 
-At the Chisel, the party met back up with [[Durin McCormick]]Durin McCormick, a dwarf dressed in fancy clothes and a large hat wide-brimmed hat with a colorful feather who had been the companion of [[Diggs Hammerstein]]Diggs Hammerstein. They told Durin what had happened to his friends and he filled sadly them in on what Diggs and the others had been working on. He told them of the [[dracolich]] naed Kaz-Imir that they had been hunting. He mentioned that the dragon originally came from the [[Divided Desert]] and had the power to shoot lightning. He told the group about the [[Shazi worm]] Shazi worms that had the power to invade your brain and control your actions eventually devouring your brain and taking its place. He told them about Sir Galleon [[Galleon Curth]] and ancient dragon battles in the region of Mist Bay. 
+At the Chisel, the party met back up with [[Durin McCormick]]Durin McCormick, a dwarf dressed in fancy clothes and a large hat wide-brimmed hat with a colorful feather who had been the companion of [[Diggs Hammerstein]]Diggs Hammerstein. They told Durin what had happened to his friends and he filled sadly them in on what Diggs and the others had been working on. He told them of the [[Kazimer (the dracolich)]] naed Kaz-Imir that they had been hunting. He mentioned that the dragon originally came from the [[Divided Desert]] and had the power to shoot lightning. He told the group about the [[Shazi worm]] Shazi worms that had the power to invade your brain and control your actions eventually devouring your brain and taking its place. He told them about Sir Galleon [[Galleon Curth]] and ancient dragon battles in the region of Mist Bay. 
 
   
 

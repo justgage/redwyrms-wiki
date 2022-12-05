@@ -4,6 +4,6 @@ Not a good fighter, very helpful and likes the group.  Has a goblin servant.  Go
 
 We told him everything about finding [[Galleon Curth]]'s body.  Huge dump of information about the world (he was good at critical rolls)
 
-Called the [[dracolich]]  "Fulgorous"
+Called the [[Kazimer (the dracolich)]]  "Fulgorous"
 
 #Friend

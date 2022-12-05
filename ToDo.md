@@ -24,10 +24,10 @@ Investigate/identify the quill and paper (Can our Bard or Wizard do this as an L
 
 Who is the [[Man in the Mask]]?  Connection to [[Shazi worm]]s?
 
-What is the [[dracolich]] up to?  How broad are his plans?  What are his connections with [[Deln Eschondi Lair]]?
+What is the [[Kazimer (the dracolich)]] up to?  How broad are his plans?  What are his connections with [[Deln Eschondi Lair]]?
 
 What was behind the unnatural calm?
 
-What does the [[female red dragon]] know?
+What does the [[Flarina, the female red dragon]] know?
 
 Why was [[Diggs Hammerstein]] interested in [[Swanmaye Wyethander]]'s Kids?

@@ -1,6 +1,6 @@
 Located in a rocky bluff in the middle of the [[Verwood Forest]]
 Doors are disguised, there's a trap in the entry area
-Was visited by the [[dracolich]]
+Was visited by the [[Kazimer (the dracolich)]]
 Appears to have been an ancient shrine to [[Boccob]] with a library, a reading room, and a room for the shrine keeper to live in.  Deln has since repurposed these.
 
 # Entryway
@@ -92,7 +92,7 @@ List of books found in [[Deln Eschondi Lair]].  THe  books taken by [[Kem]] and 
   "The Waning"
   80 "The Archer's Observances"
   =="The Sage of [[Bitterroot]]"
-"The Hand and the Eye, [[Vecna]]"==
+"[[The Hand and the Eye, Vecna]]"== ([[Vecna]])
   "The Song of the Burning Blade"
   "Civilization"
   "Lion of Leoport"

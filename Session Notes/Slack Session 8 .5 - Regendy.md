@@ -6,7 +6,7 @@
 	- This temple seems to be to a shrine to [[Boccob]] (the God of knowledge and magic) that [[Deln Eschondi|Deln]] Repourposed [[#^3626fc|🔗]]
 - [[Kem]] takes out the gizzard of the [[Spider Dragon]] and discovers it has evocation magic and can produce magical flames that ***double the spiders it touches***. [[#^97b26e]] 
 - [[Naefir]] Reads [[-Castle Baswerk and the Tales of King Orlan Baswerk-]] and [[-The History of the Kings and Queens of Masch-]]
-- [[Kem]] lookd for information about the [[White Masked Man]]
+[u]()- [[Kem]] lookd for information about the [[White Masked Man]]
 
 
 ## Raw Thread
@@ -352,13 +352,13 @@ Here are the books that have titles that might fit your search:
 
 Daniel Ferris  [3:10 PM](https://homeschool-dads.slack.com/archives/C04A3PEQY6S/p1668550211757249)  
 
-The Legacy of the Oath of Shadows is a detailing of a man who took an oath to the Master of the Spider Throne. This master is not detailed well but he lives in a place called the Rotted Tower. This man loses his soul to the Master and eventually become undead. He watches other people who have made the same oath rise in power. He watched wizards grow in power and a warrior named Kas become one of the greatest warriors in the history of mankind. He watched Kas as he was given powers and magic items and responsibilities. The man grew jealous and began to plot against the Master of the Spider Throne as well as Lt Kas. But they didn’t even care about his betrayal and that was a huge blow to his power and ego.The man then made a pact with a dark fey from the Shadowfell and grew in power as his spirit whithered and passed into shadow. He haunted the area of the water falls in Dasir for centuries and some believe he still haunts the region though he is little more than a ghost at this point.
+The Legacy of the Oath of Shadows is a detailing of a man who took an oath to the [[Master of the Spider Throne]]. This master is not detailed well but he lives in a place called the Rotted Tower. This man loses his soul to the Master and eventually become undead. He watches other people who have made the same oath rise in power. He watched wizards grow in power and a warrior named Kas become one of the greatest warriors in the history of mankind. He watched Kas as he was given powers and magic items and responsibilities. The man grew jealous and began to plot against the [[Master of the Spider Throne]] as well as Lt Kas. But they didn’t even care about his betrayal and that was a huge blow to his power and ego.The man then made a pact with a dark fey from the Shadowfell and grew in power as his spirit whithered and passed into shadow. He haunted the area of the water falls in Dasir for centuries and some believe he still haunts the region though he is little more than a ghost at this point.
 
 ![](https://ca.slack-edge.com/T040QHMHTME-U040S21UE0G-0ea829da95ca-48)
 
 Dan Christensen  [8:22 PM](https://homeschool-dads.slack.com/archives/C04A3PEQY6S/p1668568952917639)  
 
-[@Jonathan Ricks](https://homeschool-dads.slack.com/team/U0400TATY9Z) I hope Kem is sharing some of this out loud. I think you found some important clues. I'm pretty sure Deln somehow acquired the Phase Blade from Lt Kas. Also the master of the spider throne is a possibile match for Deln's "master" who he depicts something like an upsidedown spider. (edited) 
+[@Jonathan Ricks](https://homeschool-dads.slack.com/team/U0400TATY9Z) I hope Kem is sharing some of this out loud. I think you found some important clues. I'm pretty sure Deln somehow acquired the Phase Blade from Lt Kas. Also the [[master of the spider throne]] is a possibile match for Deln's "master" who he depicts something like an upsidedown spider. (edited) 
 
 ![](https://ca.slack-edge.com/T040QHMHTME-U040S21UE0G-0ea829da95ca-48)
 

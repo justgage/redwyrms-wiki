@@ -17,7 +17,7 @@ Durin, a dwarf dressed in fancy clothes and a large hat wide-brimmed hat with a 
 
   
 
-Suddenly, a large crack of thunder startled the people in the tavern. It was unnatural as the weather did not show any signs of storms. People ran to the window to see what was going on. In the sky above the harbor were two huge dragons. One was a red dragon breathing fire and the other one appeared to be black with tattered wings [[dracolich]]. The second dragon was breathing a lightning breath. The two dragons were fighting each other. The [[female red dragon]] appeared to be chasing the other one and trying to bring it down. Neither dragon cared one bit of the collateral damage they were causing throughout the town. Lightning blasts were blasting ships and buildings and fire breath was lighting everything on fire.
+Suddenly, a large crack of thunder startled the people in the tavern. It was unnatural as the weather did not show any signs of storms. People ran to the window to see what was going on. In the sky above the harbor were two huge dragons. One was a red dragon breathing fire and the other one appeared to be black with tattered wings [[Kazimer (the dracolich)]]. The second dragon was breathing a lightning breath. The two dragons were fighting each other. The [[Flarina, the female red dragon]] appeared to be chasing the other one and trying to bring it down. Neither dragon cared one bit of the collateral damage they were causing throughout the town. Lightning blasts were blasting ships and buildings and fire breath was lighting everything on fire.
 
   
 

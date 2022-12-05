@@ -1,0 +1,1 @@
+Tiny magical aspect of a once living being. Somtimes exists as an item.

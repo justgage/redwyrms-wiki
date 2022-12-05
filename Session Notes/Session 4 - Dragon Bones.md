@@ -24,7 +24,7 @@ He told them a lot of information about [[Galleon Curth]], the Silver Dragonborn
 
   
 
-They heard noise outside where they had left Matrick and a skeletal lake serpent was in the water near the boy and it was being fought by a rather tall dwarf with a halberd. The party joined the battle and defeated the lake beast with the help of Azbara. It was assumed that when the [[dracolich]] flew over the lake, its necrotic powers had given life to the skeleton of the ancient beast. 
+They heard noise outside where they had left Matrick and a skeletal lake serpent was in the water near the boy and it was being fought by a rather tall dwarf with a halberd. The party joined the battle and defeated the lake beast with the help of Azbara. It was assumed that when the [[Kazimer (the dracolich)]] flew over the lake, its necrotic powers had given life to the skeleton of the ancient beast. 
 
   
 

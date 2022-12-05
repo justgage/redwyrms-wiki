@@ -1,7 +1,10 @@
+---
+aliases: Flarina, Ember
+---
 Unnaturally beautiful Elvish form
 Not sure of name - [[Diggs Hammerstein]] drew a picture of a dragon in [[Chanrwood]] with red-dragon sounding names: Flarina/Ember?  [[Azbara Vedos, Sage]] said that she was not to be trusted.
 
-She was fighting the [[dracolich]] and was killed by him.
+She was fighting the [[Kazimer (the dracolich)]] and was killed by him.
 
 Questions for her:
 - What is your name

@@ -16,7 +16,7 @@
  [["Sir Santorio and the Black Dragon"]]
  [["The Mysterios Death of Sir Nialo"]]
  [[-The History of the Kings and Queens of Masch-]]
- [["The Hand and the Eye"]] (Vecna)
+ [["The Hand and the Eye"]] ([[Vecna]])
  [["Into the Sun: Tales of the Hazards of the Divided Desert"]]
 [[-Monsters of the Divided Desert and the High Plateau-]]
  [["The Dune Walker's Story"]]

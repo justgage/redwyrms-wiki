@@ -4,65 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "d5c08be8d0a20565",
+        "id": "c8c148a1ab2c924c",
         "type": "tabs",
         "children": [
           {
-            "id": "347a57bda53226a1",
+            "id": "8ed1637f245deb0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Slack Session 8 .5 - Regendy.md",
+                "file": "Session Notes/Session 9 - ???.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f87ef53cacbd988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Characters/Chaucerian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "36ae51bf566e0540",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dfa22c6c5cdc3aba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Slack Session 8 .5 - Regendy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44efb461ad3cd250",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "White Masked Man.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed060bd6aaeb65ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Characters/Verwood Forest Dreams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#what-does-that-mean",
+                "query": "Ali",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,8 +98,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Slack Session 8 .5 - Regendy.md",
-                "collapseAll": false,
+                "file": "Session Notes/Session 9 - ???.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
@@ -145,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Slack Session 8 .5 - Regendy.md",
+                "file": "Session Notes/Session 9 - ???.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Slack Session 8 .5 - Regendy.md"
+                "file": "Session Notes/Session 9 - ???.md"
               }
             }
           },
@@ -186,17 +156,17 @@
     "direction": "horizontal",
     "width": 363.5
   },
-  "active": "547cf034f1809a82",
+  "active": "8ed1637f245deb0c",
   "lastOpenFiles": [
-    "White Masked Man.md",
-    "Player Characters/Verwood Forest Dreams.md",
-    "Session Notes/Slack Session 8 .5 - Regendy.md",
-    "Masch.md",
-    "Mellow Sea.md",
-    "Orlan's crown.md",
+    "Helmet of Dwarven Sight.md",
     "NPCs/Gods/Boccob.md",
-    "README.md",
-    "NPCs/Gods/Erythnul.md",
-    "Artifacts/Books/-Castle Baswerk and the Tales of King Orlan Baswerk-.md"
+    "NPCs/In memoriam (recently deceased)/Flarina, the female red dragon.md",
+    "Session Notes/Session 9 - ???.md",
+    "Player Characters/Chaucerian.md",
+    "Player Characters/Thorontor.md",
+    "The Hand and the Eye, Vecna.md",
+    "Kem.md",
+    "Sernon.md",
+    "NPCs/Lieutenant Kas.md"
   ]
 }
