@@ -1,14 +1,13 @@
-
 - Skryed [[Chaucerian]]'s daugher [[Clarity]]
 	- She was in [[Ber Aswan]], alive
-- [[Kem]] watched [[White Masked Man]]
+- [[Kem]] watched [[Man in the White Mask]]
 - [[Darkus]] saw him too instead of my Mother
 	- "Who are you!?"
 	- "Not much left of me these days", Spiders are excited by talking to him
 	- "Evil is afoot and I am need for revenge"
 	- "My Powers help me to find out some information"
 	- "What information?"
-	- "The Cult... of [[Vecna]] has been active in [[Ber Aswan]] and the Goblin waste" 
+	- "The Cult of [[Vecna]] has been active in [[Ber Aswan]] and the Goblin waste" 
 - We read [[The Hand and the Eye, Vecna]] and learned a lot more about him
 - Learned [[The Phase Blade]] 
 - Talked to [[Gillious, the Dagger]]

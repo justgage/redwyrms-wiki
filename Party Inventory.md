@@ -1,35 +1,45 @@
-# Items held by each Party Member
+## Items held by each Party Member
 
 ## [[Kem]]
-Helmet of Dwarven Sight (from [[Hammerstein]] )
+
+[[Helmet of Dwarven Sight]] (from [[Hammerstein]] )
+[[Scalpel of Accuracy and Precision]]
 
 ## [[Naefir]]
-- Enchanted Quill and paper (transmutation)
-- Enchanted Scalpel of accuracy and percision (Alteration/Protection)
 
+Enchanted Quill and paper (transmutation)
+Speak with Dead scroll
 
 ## [[Bob Smash]]
-Coin? (Divination)
+
+Coin (Divination)
 
 ## [[Chaucerian]]
+
 Sword of [[Callus Silvertounge]]
 
 ## [[Thorontor]]
+
 2 Spellbooks from [[Deln Eschondi Lair]]
 
 ## [[Rufex]]
+
 2 Diamonds (different magic from crown)
+[[Wyrmsbane]]
 
 ## [[Darkus]]
 
 ## [[Gil]]
-[[Crown of High Tatra]] (strange magic, very strong)
+
+[[Crown of High Tatra]] with 2 inlaid diamonds (strange magic, very strong)
 [[Crystal Ball]]? (Divination)
 
 ## Unclaimed
-[[Wyrmsbane]]
-Revivify and Remove Curse scrolls
+
+Revivify ~~and Remove Curse~~ scrolls
 
 ## Library (Carried by Naefir)
+
+#unfinished
 Letters of [[Calthos Wyethander]]
 Discussions & Recollections of a Child Warlock

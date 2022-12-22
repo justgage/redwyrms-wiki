@@ -10,5 +10,7 @@
 - [[Session 2 - From the Grave]]
 - [[Session 1 - Dragons in the Sky]]
 
-
+## Key Tags Used
+#unfinished - Means that the note is unfinished and needs more attention
+#what-does-that-mean  - Tag for questions that the party would like to answer
 

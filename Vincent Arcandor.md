@@ -1,3 +1,4 @@
-Also [[White Masked Man]]?
+- Also [[Man in the White Mask]]?
 
-- Spell → Acandor's Wilting (sucks water out of a person)
+
+

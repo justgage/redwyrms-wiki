@@ -21,7 +21,7 @@ The party talked with Durin and Mickey to find out what they should do next. The
 
   
 
-Before they left town they checked in on Leah to make sure she was ok. She mentioned that she had a bad dream of a creature in a black cloak and featureless white mask with only eye holes [[Man in the Mask]]. It was watching her from a distance in her dream but didn’t do anything other than creep her out. He dream also had a bunch of bugs and worms.
+Before they left town they checked in on Leah to make sure she was ok. She mentioned that she had a bad dream of a creature in a black cloak and featureless white mask with only eye holes [[Man in the White Mask]]. It was watching her from a distance in her dream but didn’t do anything other than creep her out. He dream also had a bunch of bugs and worms. ^627b55
 
   
 

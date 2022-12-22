@@ -1,3 +1,4 @@
+
 [[Gil]] took it from the crypt in [[Deln Eschondi Lair]].  There was a loose sheet in [[Deln Eschondi's Journal]] with a picture of the blade and multiple seemingly random notes on it, including a question of whether it was the Phase Blade
 
 #### The Phase Blade

@@ -1,7 +1,12 @@
-### Naefir's Dream:
+Vivid dreams on the edge of the Verwood Forest
+
+## Naefir's Dream:
 Naefir has some strange dreams while sleeping near the edge of the [[Verwood Forest]]. He dreams of a battle of senseless violence. Orcs and Ogres and hill giants are fighting against humans and dwarves and elves. The battle rages across the land for as far as the eye can see. Above the battle are dragons fighting each other in the sky. Red and Blue dragons facing off against Silver and Copper dragons. Black and Green against Brass and Bronze. The violence is almost too much to take but there does see to be a sort of cleansing going on. As warriors and dragons fall to the ground, Naefir witnesses their bodies being swallowed up by the earth itself. Then he sees creature the size of a mountain enter onto the battlefield. A primitive beast of a man ([[Erythnul]]) with a massive morning star made of stone. He fights naked and savage against the humans and dwarves and elves. His morning star crashes down into the ground leaving a crater hundreds of feet in diameter. A shock wave pulses out from the impact killing thousands of warriors on both sides of the battle and knocking dragons out of the sky. Those that remain alive on the edges of the battlefield run in terror and flee the giant savage man... the battle ends and Naefir watches as the land around the crater becomes barren and lifeless. Plants wither and die. Trees rot and collapse to the now sandy ground. Cities are covered in dust and sand and disappear from knowledge. Naefir wakes in a sense of confusion and with dust in his mouth.  [[Hextor's Hammer Crater]]
 
 
 ## Kem's Dream
 
-Of the [[White Masked Man]]
+Of the [[Man in the White Mask]]
+
+## Rufex
+[[Rufex]] has some strange dreams while sleeping near the Verwood Forest. He is underground and searching for but after dreaming a while, it becomes clear. Diamonds. He has two small perfect diamonds in his left hand and he is looking for more. He walks into a room filled with treasure... more treasure than anything he has ever imagined in one place. Gold coins piled high. Gemstones. Jeweled armor and swoards. It is truly glorious but he doesn't seem to care one bit about any of it. He moves past all the treasure as he continues his search. Finally he sees what he is looking for. A large diamond 3" in diameter and beautifully cut. It is glorious and hums with its own energy the room also hums with energy as Rufex feels the heat and fire of dragon's breath. Right as his hands grabs onto the diamond, he wakes up.

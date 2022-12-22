@@ -1,0 +1,1 @@
+Allows you to see things far away.

@@ -1,15 +1,17 @@
 Located in a rocky bluff in the middle of the [[Verwood Forest]]
 Doors are disguised, there's a trap in the entry area
 Was visited by the [[Kazimer (the dracolich)]]
-Appears to have been an ancient shrine to [[Boccob]] with a library, a reading room, and a room for the shrine keeper to live in.  Deln has since repurposed these.
+Appears to have been an ancient shrine to [[Boccob]] with a library, a reading room, and a room for the shrine keeper to live in. Deln has since repurposed these.
 
 # Entryway
 
 # Reading room
+
 This is where the party encountered a spider dragon in Has a mural that depicts the same battle Naefir saw in his [[Verwood Forest Dreams]] about [[Hextor's Hammer Crater]] (see link).
 
 # Library/Laboratory
-List of books found in [[Deln Eschondi Lair]].  THe  books taken by [[Kem]] and [[Naefir]] are ==highlighted==
+
+List of books found in [[Deln Eschondi Lair]]. THe books taken by [[Kem]] and [[Naefir]] are ==highlighted==
 
 1 "The Birth of the Prince"
   "Architecture of the [[Gomboro]]"
@@ -140,7 +142,7 @@ List of books found in [[Deln Eschondi Lair]].  THe  books taken by [[Kem]] and 
   "Spurning Wealth"
   "The Anatomy of Humans, Elves, Halflings, Dwarves, Goblins, and Orcs, Volume I - VI"
   130 ==[["What the Spirit Wants..."]]==
- ==[[ "Fey Evil and a Discourse of the Feywild"]]==
+ ==[["Fey Evil and a Discourse of the Feywild"]]==
   ==[["Discussions and Recollections of a Child Warlock"]]==
   "A Thousand Uses for Lard"
   "How To Organize Your Life and Improve Your Productivity"
