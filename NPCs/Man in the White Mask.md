@@ -8,11 +8,11 @@ Latter he appeared in [[Kem]]'s [[Verwood Forest Dreams]].
 
 He has some connections with the [[Divided Desert]] and [[Shazi worm]], but [[Naefir]] can't remember the details.
 
-[[Kem]] ([[Session 9 - ???]]) skryed him with the [[Crystal Ball]] and found him in a graveyard with *low gravestones*. As he watched, the man entered the mausoleum of "[[Vincent Arcandor]]" in the [[Divided Desert]], either [[Dasir]] or [[Bur-Aswan]]. He floats and his hands are worms and bugs, probably the rest of the body. Mentally talked to Kem, "Have you come for training", Kem denied him and then said, "I'm coming for you!" as he let go of the Crystal Ball.  
+[[Kem]] ([[Session 9 - Through the Looking Glass]]) skryed him with the [[Crystal Ball]] and found him in a graveyard with *low gravestones*. As he watched, the man entered the mausoleum of "[[Vincent Arcandor]]" in the [[Divided Desert]], either [[Dasir]] or [[Bur-Aswan]]. He floats and his hands are worms and bugs, probably the rest of the body. Mentally talked to Kem, "Have you come for training", Kem denied him and then said, "I'm coming for you!" as he let go of the Crystal Ball.  
 
 [[Arcandor]], the family, has a wizard spell called ***Arcandor's wilting*** that draws all the moisture out of someone.  
 
-As Darkus was trying to skry his mother and this man seemed to be "still on the line". See: ([[Session 9 - ???]]) 
+As Darkus was trying to skry his mother and this man seemed to be "still on the line". See: ([[Session 9 - Through the Looking Glass]]) 
 
 ---
 
