@@ -5,3 +5,6 @@ Very old, older than [[Gordon]], Major trading port for everything that doesn't 
 Run by an emperor, which changes hands quite regularly.  The empire doesn't have a heavy hand, so it is very corrupt. 
 
 [[Dervin Eschondi]] has a training facility in the outying islands.
+
+
+
