@@ -1,5 +1,6 @@
 
 ## Session Notes
+- [[Session 9 - Through the Looking Glass]]
 - [[Slack Session 8 .5 - Regendy]]
 - [[Session 8 - The Itsy Bitsy Spiders…]]
 - [[Session 7 - This Battle Sucks]]
