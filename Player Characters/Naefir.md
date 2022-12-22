@@ -30,7 +30,7 @@ What is the [[dracolich]] up to?  How broad are his plans?  What are his connect
 
 What was behind the unnatural calm?
 
-What does the [[female red dragon]] know?
+What does the [[Flarina, the female red dragon]] know?
 
 Why was [[Diggs Hammerstein]] interested in [[Swanmaye Wyethander]]'s Kids?
 

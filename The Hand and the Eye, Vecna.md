@@ -1,7 +1,2 @@
-A book about [[Vecna]] 
+A book about [[Vecna]] (see all those notes for what's in the book)
 
-Made a magic sword for [[Lieutenant Kas]]
-
-[[Arcandor]] went on to be killed 
-
-#unfinished 
