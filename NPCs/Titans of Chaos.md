@@ -1,2 +1,2 @@
 > The Titans of Chaos were rumored to predate the deities but little is known of them. The name that comes to mind for this one is Father of Fire. You believe that you have seen another name for him, but you can't recall it at this time.
-> ~ [[Slack Session 8 .5 - Regendy]]
+> ~ [[Slack Session 8 .5 - Regendy (1242-04-10)]]

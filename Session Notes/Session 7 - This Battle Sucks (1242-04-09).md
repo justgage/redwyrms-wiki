@@ -1,4 +1,3 @@
-**
 #Session 
 Session 7: This Battle Sucks – Spring 1242 – First Year of the Reign of Queen Adele 
 

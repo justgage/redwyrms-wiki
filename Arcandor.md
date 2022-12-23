@@ -1,1 +1,0 @@
-Refurs mostly to [[Vincent Arcandor]].

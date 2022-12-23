@@ -1,6 +1,6 @@
 Located in a rocky bluff in the middle of the [[Verwood Forest]]
 Doors are disguised, there's a trap in the entry area
-Was visited by the [[Kazimer (the dracolich)]]
+Was visited by the [[Kaz Imir (the dracolich)]]
 Appears to have been an ancient shrine to [[Boccob]] with a library, a reading room, and a room for the shrine keeper to live in. Deln has since repurposed these.
 
 # Entryway
@@ -94,7 +94,7 @@ List of books found in [[Deln Eschondi Lair]]. THe books taken by [[Kem]] and [[
   "The Waning"
   80 "The Archer's Observances"
   =="The Sage of [[Bitterroot]]"
-"[[The Hand and the Eye, Vecna]]"== ([[Vecna]])
+"[[-The Hand and the Eye, Vecna-]]"== ([[Vecna]])
   "The Song of the Burning Blade"
   "Civilization"
   "Lion of Leoport"
@@ -119,7 +119,7 @@ List of books found in [[Deln Eschondi Lair]]. THe books taken by [[Kem]] and [[
   "The Doctrine of Mathematics and the Problems of Chances"
 "Rector of the Temple of [[Morisat]]"
   ==[["Into the Sun: Tales of the Hazards of the Divided Desert"]]==
-  "The Arts and Sciences of a Dwarven Anvil and Swage"
+  "The Arts and Sciences of a Dwarven Anvil and Swage" (Rufex read, nonplussed)
   "The Classes of Metalurgy"
   "Hydrodynamics and the Study of Water"
   110 "The Last Dragon"

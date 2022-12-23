@@ -6,11 +6,11 @@ The first and greatest of all liches. The god of secrets.
 - Probably some relation to [[Rotted Tower]]
 - Once was a king in the [[Divided Desert]]
   - 10,000 years ago
-    - Luch green forests and plains
+    - Lush green forests and plains
 - He was a wizard / How he became a God
   - Didn't want to die
-  - Moved into Litchdom
-  - Moved into Demi-litchdom
+  - Moved into Lichdom
+  - Moved into Demi-lichdom
   - He made [[The Phase Blade]] for [[Lieutenant Kas]]
   - Arcandor (Maybe: [[Vincent Arcandor]])
   - [[Lieutenant Kas]] cut off his left hand

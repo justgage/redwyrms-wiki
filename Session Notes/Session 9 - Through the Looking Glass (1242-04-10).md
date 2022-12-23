@@ -1,30 +1,31 @@
+#Session
 *Session 9: Through the Looking Glass – Spring 1242 – First Year of the Reign of Queen Adele*
 
 Many things were discovered through trial and error and exploration.
 
-They cast **Speak with Dead** on the body of the Red Dragon elf lady (see [[Flarina, the female red dragon]]) and found that [[Kaz Imir]] was after the jewels in her treasure hoard.
+They cast **Speak with Dead** on the body of the Red Dragon elf lady (see [[Flarina, the female red dragon]]) and found that [[Kaz Imir (the dracolich)]] was after the jewels in her treasure hoard.
 
-[[Gil]] placed the two diamonds into the [[Crown of High Tatra]] and put on the crown and lost control of himself for a time.
+[[Gil]] placed the two diamonds into the [[Crown of High Tatra]] and put on the crown and lost control of himself for a time.  He took 6 psychic damage when Rufex finally succeeded on taking it off of him.
 
-The party identified [[Wyrmsbane]] and [[Rufex]] fastened it to the end of his javelin.
+The party identified [[Wyrmsbane]] and [[Rufex]] fastened it to the end of his javelin.  They also identified [[Scalpel of Accuracy and Precision]] and Naefir gave it to Kem.
 
 The party suspects that [[The Phase Blade]] is a vestige of [[Lieutenant Kas]] and was once his sword.
 
 The secret door north out of the laboratory was found to lead to an underground stream and a secret entrance in the side of the rock cliffs.
 
-[[Chaucerian]] used the crystal ball to look for his daughter, [[Clarity]]. He was able to see her. She was in an alley in what looked like a large desert city. She traveled through the streets for a bit and ended up in a dark room with a few other kids. She was on a pickpocketing mission and did not succeed.
+[[Chaucerian]] used the crystal ball to look for his daughter, [[Clarity]]. He was able to see her. She was in an alley in what looked like a large desert city (presumably [[Bur-Aswan]]). She traveled through the streets for a bit and ended up in a dark room with a few other kids. She was on a pickpocketing mission and did not succeed.
 
 The ball was also used by [[Kem]] to look for the [[Man in the White Mask]]. They discovered that he was completely made up of worms and bugs. He could see him cross a large bridge over a wide river and make his way into a mausoleum with the name [[Vincent Arcandor]] (written in Aswanian) over the door. He made an offer to Kem but Kem instead told him, “I am coming for you!”
 
 [[Darkus]] used the crystal ball to seek out his mother, but the scry spell did not work. Then the masked man interrupted the spell and made an offer to Darkus. He wanted help dealing with a [[cult of Vecna]] and would help Darkus find his family.
 
-The party read a book about Vecna. ([[The Hand and the Eye, Vecna]])
+The party read a book about Vecna. ([[-The Hand and the Eye, Vecna-]])
 
-Then they went through the one-way portal into what they were told was the ruins of [[Castle Baswerk]]. They arrived in a prison dungeon and there was an undead thrall in one of the cells. The killed it and decomposed it. Kem also noticed the spirit of a girl but she avoided the party. Gil misty stepped on the other side of the locked door and let the party out. Then he proceeded down the hall and almost got hit by a blade trap and then was attacked by a kobold in the wall shooting a crossbow.
+Then they went through the one-way portal into what they were told was the ruins of [[Castle Baswerk]]. They arrived in a prison dungeon and there was an undead thrall in one of the cells. They killed it and decomposed it. Kem also noticed the spirit of a girl but she avoided the party. Naefir misty stepped on the other side of the locked door and let the party out. Then Gil proceeded down the hall and almost got hit by a blade trap and then was attacked by a kobold in the wall shooting a crossbow.
 
 He got through the door and entered a room with four statues of old kings. They killed two kobolds and noticed the kings were all wearing the crown of high tatra.
 
-They left the statue room and ended up in an intersection of hallways with awesome levers on the wall and tiles on the floor. The levers needed to be pulled in some order and the party figured it out through trial and error and mage hand setting off numerous traps along the way. Once they were pulled in the proper order, the center tile started to descend into the ground. It went into a large cavern with a chest on the ground and a lantern hanging on a hook. The chest was a mimic which they fought and killed and after casting identify, they found out the lantern was the phylactery of the Dracolich, Kaz Imir who now somehow knows they have it in their possession.
+They left the statue room and ended up in an intersection of hallways with awesome levers on the wall and tiles on the floor. The levers needed to be pulled in some order and the party figured it out through trial and error and mage hand setting off numerous traps along the way. Once they were pulled in the proper order, the center tile started to descend into the ground. It went into a large cavern with a chest on the ground and a lantern hanging on a hook. The chest was a mimic which they fought and killed and after casting identify, they found out [[the lantern]] was the phylactery of [[Kaz Imir (the dracolich)]] who now somehow knows they have it in their possession.
 
 [[Wyrmsbane]]:
 
@@ -44,7 +45,7 @@ Next Session – 30 December 2022
 
 ## Gage's Notes
 - Skryed [[Chaucerian]]'s daugher [[Clarity]]
-	- She was in [[Ber Aswan]], alive
+	- She was in [[Bur-Aswan]], alive
 - [[Kem]] watched [[Man in the White Mask]]
 - [[Darkus]] saw him too instead of my Mother
 	- "Who are you!?"
@@ -52,8 +53,8 @@ Next Session – 30 December 2022
 	- "Evil is afoot and I am need for revenge"
 	- "My Powers help me to find out some information"
 	- "What information?"
-	- "The Cult of [[Vecna]] has been active in [[Ber Aswan]] and the Goblin waste" 
-- We read [[The Hand and the Eye, Vecna]] and learned a lot more about him
+	- "The Cult of [[Vecna]] has been active in [[Bur-Aswan]] and the Goblin waste" 
+- We read [[-The Hand and the Eye, Vecna-]] and learned a lot more about him
 - Learned [[The Phase Blade]] 
 - Talked to [[Gillious, the Dagger]]
 	- [[Dervin Eschondi|Dervin]] will be looking for Deln, he uses him for things
@@ -69,9 +70,9 @@ Next Session – 30 December 2022
 	- Current is pretty strong
 	- ([[Vampire]]s can't cross running water!)
 	- Go ahead through middle path to a secret door to this temple of [[Boccob]] ([[Deln Eschondi Lair]])
-- Cast speak with dead with the [[Flarina, the female red dragon]]
-	- Why where you fighting [[Kazimer (the dracolich)|Kazimer]]? 
-		- "He was stealing my Dimonds!"
+- Cast speak with dead with [[Flarina, the female red dragon]]
+	- Why where you fighting [[Kaz Imir (the dracolich)|Kazimer]]? 
+		- "He was stealing my Diamonds!"
 - We go through the existing portal
 	- After walking through it the portal is ONE WAY!
 	- 110 ft long prisson doors / cells

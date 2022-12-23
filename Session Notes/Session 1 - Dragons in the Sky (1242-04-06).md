@@ -1,23 +1,15 @@
+
 **
 
 Session 1: Dragons in the Sky – Spring 1242 – First Year of the Reign of Queen Adele 
 
-  
-  
- 
-Thorontor, Gil, Kem, Chaucerion, and Darkus were individually enjoying dinner at The Chisel[[the Chisel]], a beautiful tavern near the harbor in [[Ivy on the Mist]]Ivy on the Mist that serves decent food and bad ale. A gnome named Mickey Vonder is the owner of The Chisel and as a former woodworker he made the details of the tavern absolutely lovely. The tavern was crowded as there were rumors that a famous bard named [[Durin McCormick]]Durin McCormick was in town and going to play his lute and tell stories of the Monster Hunters at The Chisel.
-
-  
+Thorontor, Gil, Kem, Chaucerion, and Darkus were individually enjoying dinner at [[the Chisel]], a beautiful tavern near the harbor in [[Ivy on the Mist]]Ivy on the Mist that serves decent food and bad ale. A gnome named Mickey Vonder is the owner of The Chisel and as a former woodworker he made the details of the tavern absolutely lovely. The tavern was crowded as there were rumors that a famous bard named [[Durin McCormick]]Durin McCormick was in town and going to play his lute and tell stories of the Monster Hunters at The Chisel.  
 
 Ivy on the Mist was filled with people. The weather the last few days had been unnaturally calm and the lack of winds were keeping any ships from leaving the harbor. A few ships had been able to limp into port, but no one was leaving. Also, up the road in [[Swan Field]], people were preparing for the annual Swan Festival where thousands of white swans land in the fields near the lake on their migration route. The festival would often draw in huge crowds with people celebrating great food, nice weather, good music, and the end of winter.
 
-  
-
 Durin, a dwarf dressed in fancy clothes and a large hat wide-brimmed hat with a colorful feather, entered the tavern accompanied by three other dwarves who looked to be adventurers and warriors. One of those dwarves was [[Diggs Hammerstein]] Diggs Hammerstein, the leader of the Monster Hunters. People were very excited about the music and seeing a group of celebrities.
 
-  
-
-Suddenly, a large crack of thunder startled the people in the tavern. It was unnatural as the weather did not show any signs of storms. People ran to the window to see what was going on. In the sky above the harbor were two huge dragons. One was a red dragon breathing fire and the other one appeared to be black with tattered wings [[Kazimer (the dracolich)]]. The second dragon was breathing a lightning breath. The two dragons were fighting each other. The [[Flarina, the female red dragon]] appeared to be chasing the other one and trying to bring it down. Neither dragon cared one bit of the collateral damage they were causing throughout the town. Lightning blasts were blasting ships and buildings and fire breath was lighting everything on fire.
+Suddenly, a large crack of thunder startled the people in the tavern. It was unnatural as the weather did not show any signs of storms. People ran to the window to see what was going on. In the sky above the harbor were two huge dragons. One was a red dragon breathing fire and the other one appeared to be black with tattered wings [[Kaz Imir (the dracolich)]]. The second dragon was breathing a lightning breath. The two dragons were fighting each other. The [[Flarina, the female red dragon]] appeared to be chasing the other one and trying to bring it down. Neither dragon cared one bit of the collateral damage they were causing throughout the town. Lightning blasts were blasting ships and buildings and fire breath was lighting everything on fire.
 
   
 

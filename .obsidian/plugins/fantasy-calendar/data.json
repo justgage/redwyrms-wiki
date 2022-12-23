@@ -374,6 +374,160 @@
             "month": 11
           },
           "category": null
+        },
+        {
+          "name": "Session 2 - From the Grave 1242-04-06",
+          "description": null,
+          "date": {
+            "day": 6,
+            "month": 3,
+            "year": 1242
+          },
+          "id": "ID_399a1ac8fbab",
+          "note": "Session Notes/Session 2 - From the Grave 1242-04-06",
+          "category": null
+        },
+        {
+          "id": "ID_6a088b9a8ba9",
+          "name": "Session 1 - Dragons in the Sky (1242-04-06)",
+          "note": "Session Notes/Session 1 - Dragons in the Sky (1242-04-06).md",
+          "date": {
+            "year": 1242,
+            "month": 3,
+            "day": 6
+          },
+          "end": null,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_4ba859791a28",
+          "name": "Session 2 - From the Grave (1242-04-06)",
+          "note": "Session Notes/Session 2 - From the Grave (1242-04-06).md",
+          "date": {
+            "year": 1242,
+            "month": 3,
+            "day": 6
+          },
+          "end": null,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_8aabbb8bb92a",
+          "name": "Session 3 - Travel to Swan Field (1242-04-07)",
+          "note": "Session Notes/Session 3 - Travel to Swan Field (1242-04-07).md",
+          "date": {
+            "year": 1242,
+            "month": 3,
+            "day": 7
+          },
+          "end": null,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_6b0a2babd989",
+          "name": "Session 4 - Dragon Bones (1242-04-08)",
+          "note": "Session Notes/Session 4 - Dragon Bones (1242-04-08).md",
+          "date": {
+            "year": 1242,
+            "month": 3,
+            "day": 8
+          },
+          "end": null,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_0a086a689889",
+          "name": "Session 5 - Vampire Fey (1242-04-08)",
+          "note": "Session Notes/Session 5 - Vampire Fey (1242-04-08).md",
+          "date": {
+            "year": 1242,
+            "month": 3,
+            "day": 8
+          },
+          "end": null,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_398b58db2879",
+          "name": "Session 6 - Into the Crypt (1242-04-09)",
+          "note": "Session Notes/Session 6 - Into the Crypt (1242-04-09).md",
+          "date": {
+            "year": 1242,
+            "month": 3,
+            "day": 9
+          },
+          "end": null,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_686b7ac8f9da",
+          "name": "Session 7 - This Battle Sucks (1242-04-09)",
+          "note": "Session Notes/Session 7 - This Battle Sucks (1242-04-09).md",
+          "date": {
+            "year": 1242,
+            "month": 3,
+            "day": 9
+          },
+          "end": null,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_cb18982bd948",
+          "name": "Session 8 - The Itsy Bitsy Spiders… (1242-04-10)",
+          "note": "Session Notes/Session 8 - The Itsy Bitsy Spiders… (1242-04-10).md",
+          "date": {
+            "year": 1242,
+            "month": 3,
+            "day": 10
+          },
+          "end": null,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_c97af8b96ac8",
+          "name": "Session 9 - Through the Looking Glass (1242-04-10)",
+          "note": "Session Notes/Session 9 - Through the Looking Glass (1242-04-10).md",
+          "date": {
+            "year": 1242,
+            "month": 3,
+            "day": 10
+          },
+          "end": null,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_2af84889cb78",
+          "name": "Slack Session 8 .5 - Regendy (1242-04-10)",
+          "note": "Session Notes/Slack Session 8 .5 - Regendy (1242-04-10).md",
+          "date": {
+            "year": 1242,
+            "month": 3,
+            "day": 10
+          },
+          "end": null,
+          "description": "",
+          "auto": true
+        },
+        {
+          "name": "Slack Session 8 .5 - Regendy (1242-04-10)",
+          "description": null,
+          "date": {
+            "day": 10,
+            "month": 3,
+            "year": 1242
+          },
+          "id": "ID_b8ea084998f9",
+          "note": "Session Notes/Slack Session 8 .5 - Regendy (1242-04-10)",
+          "category": null
         }
       ],
       "id": "ID_5a4b09fb3a98",
@@ -2886,7 +3040,7 @@
     "calendar": false
   },
   "eventFrontmatter": false,
-  "parseDates": false,
+  "parseDates": true,
   "settingsToggleState": {
     "calendars": true,
     "events": true,

@@ -1,15 +1,15 @@
 
 ## Session Notes
-- [[Session 9 - Through the Looking Glass]]
-- [[Slack Session 8 .5 - Regendy]]
-- [[Session 8 - The Itsy Bitsy Spiders…]]
-- [[Session 7 - This Battle Sucks]]
-- [[Session 6 - Into the Crypt]]
-- [[Session 5 - Vampire Fey]]
-- [[Session 4 - Dragon Bones]]
-- [[Session 3 - Travel to Swan Field]]
-- [[Session 2 - From the Grave]]
-- [[Session 1 - Dragons in the Sky]]
+- [[Session 9 - Through the Looking Glass (1242-04-10)]]
+- [[Slack Session 8 .5 - Regendy (1242-04-10)]]
+- [[Session 8 - The Itsy Bitsy Spiders… (1242-04-10)]]
+- [[Session 7 - This Battle Sucks (1242-04-09)]]
+- [[Session 6 - Into the Crypt (1242-04-09)]]
+- [[Session 5 - Vampire Fey (1242-04-08)]]
+- [[Session 4 - Dragon Bones (1242-04-08)]]
+- [[Session 3 - Travel to Swan Field (1242-04-07)]]
+- [[Session 2 - From the Grave (1242-04-06)]]
+- [[Session 1 - Dragons in the Sky (1242-04-06)]]
 
 ## Key Tags Used
 #unfinished - Means that the note is unfinished and needs more attention

@@ -26,6 +26,7 @@ Sword of [[Callus Silvertounge]]
 
 2 Diamonds (different magic from crown)
 [[Wyrmsbane]]
+[[Staff of true seeing]]
 
 ## [[Darkus]]
 
@@ -37,9 +38,3 @@ Sword of [[Callus Silvertounge]]
 ## Unclaimed
 
 Revivify ~~and Remove Curse~~ scrolls
-
-## Library (Carried by Naefir)
-
-#unfinished
-Letters of [[Calthos Wyethander]]
-Discussions & Recollections of a Child Warlock

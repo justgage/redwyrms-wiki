@@ -1,3 +1,4 @@
+#Session
 ## Summary
 
 - [[#^7eb9b5|🔗]] [[Naefir]] Inspects miral and learns about some of the characters
@@ -103,7 +104,7 @@ Daniel Ferris  [4:15 PM](https://homeschool-dads.slack.com/archives/C04A3PEQY6
 The books definitely seem to be Deln's Personal Collection. However, it could be some of the books were ones he found here when he made this place his lair. A few that seem extremely old:
 
 - "The Age of Light: A Study of Darkness Within"
-- "[[The Hand and the Eye, Vecna]]"
+- "[[-The Hand and the Eye, Vecna-]]"
 - "The Chronology of Ancient Cultures"
 
 ![](https://ca.slack-edge.com/T040QHMHTME-U0400TATY9Z-6ec23f8d6060-48)
@@ -352,7 +353,7 @@ The Legacy of the Oath of Shadows is a detailing of a man who took an oath to th
 
 Dan Christensen  [8:22 PM](https://homeschool-dads.slack.com/archives/C04A3PEQY6S/p1668568952917639)
 
-[@Jonathan Ricks](https://homeschool-dads.slack.com/team/U0400TATY9Z) I hope Kem is sharing some of this out loud. I think you found some important clues. I'm pretty sure Deln somehow acquired the Phase Blade from Lt Kas. Also the [[master of the spider throne]] is a possibile match for Deln's "master" who he depicts something like an upsidedown spider. (edited)
+[@Jonathan Ricks](https://homeschool-dads.slack.com/team/U0400TATY9Z) I hope Kem is sharing some of this out loud. I think you found some important clues. I'm pretty sure Deln somehow acquired the Phase Blade from Lt Kas. Also the [[Master of the Spider Throne]] is a possibile match for Deln's "master" who he depicts something like an upsidedown spider. (edited)
 
 ![](https://ca.slack-edge.com/T040QHMHTME-U040S21UE0G-0ea829da95ca-48)
 
