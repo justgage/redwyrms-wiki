@@ -178,9 +178,9 @@
         ]
       },
       "current": {
-        "year": 1242,
-        "day": 10,
-        "month": 3
+        "day": 13,
+        "month": 3,
+        "year": 1242
       },
       "events": [
         {
@@ -505,19 +505,6 @@
           "auto": true
         },
         {
-          "id": "ID_2af84889cb78",
-          "name": "Slack Session 8 .5 - Regendy (1242-04-10)",
-          "note": "Session Notes/Slack Session 8 .5 - Regendy (1242-04-10).md",
-          "date": {
-            "year": 1242,
-            "month": 3,
-            "day": 10
-          },
-          "end": null,
-          "description": "",
-          "auto": true
-        },
-        {
           "name": "Slack Session 8 .5 - Regendy (1242-04-10)",
           "description": null,
           "date": {
@@ -528,6 +515,32 @@
           "id": "ID_b8ea084998f9",
           "note": "Session Notes/Slack Session 8 .5 - Regendy (1242-04-10)",
           "category": null
+        },
+        {
+          "id": "ID_787afaea1978",
+          "name": "Session 8 .5 - Slack Regendy (1242-04-10)",
+          "note": "Session Notes/Session 8 .5 - Slack Regendy (1242-04-10).md",
+          "date": {
+            "year": 1242,
+            "month": 3,
+            "day": 10
+          },
+          "end": null,
+          "description": "",
+          "auto": true
+        },
+        {
+          "id": "ID_f9298a8b9ad8",
+          "name": "Session 10 (1242-04-11 through 1242-04-13)",
+          "note": "Session Notes/Session 10 (1242-04-11 through 1242-04-13).md",
+          "date": {
+            "year": 1242,
+            "month": 3,
+            "day": 11
+          },
+          "end": null,
+          "description": "",
+          "auto": true
         }
       ],
       "id": "ID_5a4b09fb3a98",

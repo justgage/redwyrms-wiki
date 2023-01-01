@@ -23,11 +23,15 @@ Naefir can carry 23-25 books.
 	  17. [["Fey Evil and a Discourse of the Feywild"]]
 	  18. [["The Letters of Calthos Wyethander"]]
 	  19. "Monsters and Beasts Who Roam the [[Goblin Wastes]]"
-	  20.   "To Dream a Dream"
-	  21.   "The Badge of Mysteries"
-	  22.   "Here Be Dragons"
-	  23.  "The Last Dragon"
+	  20. "To Dream a Dream"
+	  21. "The Badge of Mysteries"
+	  22. "Here Be Dragons"
+	  23. "The Last Dragon"
+	  24. "A Study of Lucid Dreaming and How to Enter Into the Dream Realm" 
+	  25. "Dreams and Nightmares from the Outer Planes"  
+	  26. "A Collection of Visions from the Dreamer of Dreams"
 
 ## In Kem's Backpack
 
 - [[Eschondi Notebook]]
+- [[-The Legacy of the Oath of Shadows-]]

@@ -5,9 +5,9 @@ Firbolg from the [[Upper Verwood Forest]].  Cloistered scholar background - had 
 1. See what Naefir can remember or read...
 	1. about Who is [[Gragor]] and what was his battle with the dragons?  Connection with notes on map?
 	4. about [[Hextor's Hammer Crater]]
-3. **What time is it?**  Stop people from exploring more, take a rest!
-4. **What are we going to do with Flarina's corpse?** Find a safe resting place for the female red dragon, perform Gentle Repose.
-5. How are we going to avoid Kaz Imir?
+	5. Vincent Arcandor
+	6. Ask Azbara to help make sense of Deln's Journal
+2. Remember that we are approaching the ides of the grass.
 
 
 # Eventually (Goals)

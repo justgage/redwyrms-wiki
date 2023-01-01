@@ -1,0 +1,1 @@
+Silver dragonborn from [[Kalendrole]]. Affected by the Dragonborn Scourge.

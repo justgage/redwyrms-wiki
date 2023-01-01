@@ -8,4 +8,8 @@ Former blue dragon, likely turned self into a dracolich to make himself immortal
 
 Only way to defeat a lich is to find their phylactery and destroy it and then defeat the lich.  The lich must feed soles to his phylactery.
 
+[[Deln Eschondi]] was able to order Kaz Imir around, which is very unusual for a powerful dragon like 
+
+
+
 #Threat

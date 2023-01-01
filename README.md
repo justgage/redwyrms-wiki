@@ -1,7 +1,7 @@
 
 ## Session Notes
 - [[Session 9 - Through the Looking Glass (1242-04-10)]]
-- [[Slack Session 8 .5 - Regendy (1242-04-10)]]
+- [[Session 8 .5 - Slack Regendy (1242-04-10)]]
 - [[Session 8 - The Itsy Bitsy Spiders… (1242-04-10)]]
 - [[Session 7 - This Battle Sucks (1242-04-09)]]
 - [[Session 6 - Into the Crypt (1242-04-09)]]

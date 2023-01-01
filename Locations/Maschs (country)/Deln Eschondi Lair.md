@@ -1,17 +1,21 @@
+---
+aliases: The Party's Lair, Deln's Lair, Deln Eschondi's Lair
+---
+
 Located in a rocky bluff in the middle of the [[Verwood Forest]]
 Doors are disguised, there's a trap in the entry area
 Was visited by the [[Kaz Imir (the dracolich)]]
 Appears to have been an ancient shrine to [[Boccob]] with a library, a reading room, and a room for the shrine keeper to live in. Deln has since repurposed these.
 
 # Entryway
+Externally disguised to look like part of the rock face.  The hub of the lair is a entry room with a obelisk with a ball on top.  The ball shoots fire bolts when engaged.  The party shrunk some boulders and placed them in the narrow entryway, where they returned to their original size, sealing off the entryway.  There is a second entry to the lair through a secret passage.
 
 # Reading room
-
-This is where the party encountered a spider dragon in Has a mural that depicts the same battle Naefir saw in his [[Verwood Forest Dreams]] about [[Hextor's Hammer Crater]] (see link).
+This is where the party encountered a spider dragon in Has a mural that depicts a battle between [[Erythnul]], [[Boccob]] (or one of his followers), [[Pelor]] (or one of his followers), and the [[Father of Fire]], one of the [[Titans of Chaos]] (see [[Session 8 .5 - Slack Regendy (1242-04-10)]])
 
 # Library/Laboratory
 
-List of books found in [[Deln Eschondi Lair]]. THe books taken by [[Kem]] and [[Naefir]] are ==highlighted==
+List of books found in [[Deln Eschondi Lair]].  All of these books were moved to [[Azbara Vedos, Sage]]'s hut during [[Session 10 (1242-04-11 through 1242-04-13)]].
 
 1 "The Birth of the Prince"
   "Architecture of the [[Gomboro]]"
@@ -49,7 +53,7 @@ List of books found in [[Deln Eschondi Lair]]. THe books taken by [[Kem]] and [[
   "Life of [[Father Edmund]]"
   "Chronicle"
   *"Resurrection of [[King Birlon]]"*
-  =="[[Life in Swanfield]]"==
+  "[[Life in Swanfield]]"
   "Old [[Milonia]]n Folktales"
   "The Owl and the Nightingale"
 40 "The Peacock and the Peahen"
@@ -57,7 +61,7 @@ List of books found in [[Deln Eschondi Lair]]. THe books taken by [[Kem]] and [[
   "A Political Poem"
   "Rolls of the Meetings of The Kingfishers"
   "Birth and Death Notices of [[Ivy on the Mist]]"
-  =="The Construction of [[Orlan's Wall]]"==
+  "The Construction of [[Orlan's Wall]]"
   "The Book of Nurture"
   "The Badge of Mysteries"
   "Iron John"
@@ -70,14 +74,14 @@ List of books found in [[Deln Eschondi Lair]]. THe books taken by [[Kem]] and [[
   "A Collection of Propaganda Letters for the Servants of [[King Van Schmelt]]"
   "Gods and Soldiers"
   "Demon Moon"
-  ==[["The Properties of Silver in Regards to the Undying"]]==
+  [["The Properties of Silver in Regards to the Undying"]]
   "The Pillars of the Heavens"
   60 "A Rose's Name"
   "The World is not Flat"
-  =="[[Sir Santorio]] and the Black Dragon"==
-  =="The Mysterios Death of [[Sir Nialo]]:"==
+  "[[Sir Santorio]] and the Black Dragon"
+  "The Mysterios Death of [[Sir Nialo]]:"
   "The Last Age"
-  =="The Age of Light: A Study of the Darkness Within"==
+  "The Age of Light: A Study of the Darkness Within"
   "Here Be Dragons"
   "The Songs of [[Roland]]"
   "The Art of Death"
@@ -85,7 +89,7 @@ List of books found in [[Deln Eschondi Lair]]. THe books taken by [[Kem]] and [[
   70 "The Taste of Bones"
   "Fire and Recipes"
   "The Letters of [[Abigail Begumont]]"
-  ==[["The History of the Kings and Queens of Masch"]]==
+  [["The History of the Kings and Queens of Masch"]]
   "Gordon Settlers"
   "The [[Milonia]]n Expansion"
   "The Midwife's Servant"
@@ -93,12 +97,12 @@ List of books found in [[Deln Eschondi Lair]]. THe books taken by [[Kem]] and [[
   "The Construction of the Castle of Freeport"
   "The Waning"
   80 "The Archer's Observances"
-  =="The Sage of [[Bitterroot]]"
-"[[-The Hand and the Eye, Vecna-]]"== ([[Vecna]])
+  "The Sage of [[Bitterroot]]"
+"[[-The Hand and the Eye, Vecna-]]" ([[Vecna]])
   "The Song of the Burning Blade"
   "Civilization"
   "Lion of Leoport"
-  =="The History of the Red King"==
+  "The History of the Red King"
   "The Sword of Mysteries"
   "The Adventures of the Spirited Folk"
   "The Ale and Mead Recipes of the [[Delfolk]]"
@@ -118,7 +122,7 @@ List of books found in [[Deln Eschondi Lair]]. THe books taken by [[Kem]] and [[
   "A Blazing New World and a Dangerous Frontier"
   "The Doctrine of Mathematics and the Problems of Chances"
 "Rector of the Temple of [[Morisat]]"
-  ==[["Into the Sun: Tales of the Hazards of the Divided Desert"]]==
+  [["Into the Sun: Tales of the Hazards of the Divided Desert"]]
   "The Arts and Sciences of a Dwarven Anvil and Swage" (Rufex read, nonplussed)
   "The Classes of Metalurgy"
   "Hydrodynamics and the Study of Water"
@@ -127,13 +131,13 @@ List of books found in [[Deln Eschondi Lair]]. THe books taken by [[Kem]] and [[
   "[[Barrington Fields]]"
   "The Almanac of Poor Friedrick"
   "The Tale of the Cowardly Cavlier with the Magical Shield"
-  ==[["Monsters of the Divided Desert and the High Plateau"]]==
+  [["Monsters of the Divided Desert and the High Plateau"]] (read by Kem)
   "Monsters and Beasts Who Roam the [[Goblin Wastes]]"
-=="The Dune Walker's Story"==
-  ==[[-Castle Baswerk and the Tales of King Orlan Baswerk-]]==
-  120 ==[[-The Letters of Sir Edward Curth and the Vampire Hunter-]]==
+"The Dune Walker's Story"
+  [[-Castle Baswerk and the Tales of King Orlan Baswerk-]]==
+  120 [[-The Letters of Sir Edward Curth and the Vampire Hunter-]]
   "Orc Recipes: Strange Tastes and Exotic Spices"
-  ==[["Sometimes They Come Back"]]==
+  [["Sometimes They Come Back"]]
   "Dread, Shock, Obsession, and Despair"
 "The Records of the Graveyard of Terunidin"
   "The Records of Birth in the [[City of Eagle Bay]] from 3,425 to 3,429"
@@ -141,14 +145,14 @@ List of books found in [[Deln Eschondi Lair]]. THe books taken by [[Kem]] and [[
   "The Morality of Enchanters: A Debate of Individual Rights"
   "Spurning Wealth"
   "The Anatomy of Humans, Elves, Halflings, Dwarves, Goblins, and Orcs, Volume I - VI"
-  130 ==[["What the Spirit Wants..."]]==
- ==[["Fey Evil and a Discourse of the Feywild"]]==
-  ==[["Discussions and Recollections of a Child Warlock"]]==
+  130 [["What the Spirit Wants..."]]
+ [["Fey Evil and a Discourse of the Feywild"]]
+  [["Discussions and Recollections of a Child Warlock"]]
   "A Thousand Uses for Lard"
   "How To Organize Your Life and Improve Your Productivity"
   "The Leadership Traits of A Tyrant"
   "A Concerted Amalgam of the Species of Flesh by [[Althonius Taverner]]"
- ==[["The Letters of Calthos Wyethander"]]== [[Calthos Wyethender]]
+ [["The Letters of Calthos Wyethander"]] [[Calthos Wyethender]]
   "Hallowed Ground"
   "Forbidden Knowledge of [[the Somori People]]"
   140 "An Investigation of Bug Bears, Werebears, and Owlbears"
@@ -166,7 +170,10 @@ List of books found in [[Deln Eschondi Lair]]. THe books taken by [[Kem]] and [[
   "Historical Landmarks of [[Gordon]]"
   "A Detailed Study of the Drow Cultures of the Underworld of [[Ni Nak]]"
   "A Dragon Over Us"
-  =="The Night that the World Changed for the Worse"
-  [[-Hextor's Hammer Crater and the Blow that Shook the World-]]==
+  "The Night that the World Changed for the Worse"
+  [[-Hextor's Hammer Crater and the Blow that Shook the World-]]
   "Cats and Kittens"
   "Oozes, Jellies, and Molds"
+  "A Study of Lucid Dreaming and How to Enter Into the Dream Realm"  
+  "Dreams and Nightmares from the Outer Planes"  
+  "A Collection of Visions from the Dreamer of Dreams"

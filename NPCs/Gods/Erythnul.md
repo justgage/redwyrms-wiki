@@ -1,7 +1,7 @@
 ---
 Aliases: The Many, God of war, God of slaughter
 ---
-God of war and slaughter, referred to as The Many because he has many forms.  He often appears as a beast/gnoll.  He is **chaotic evil**, though some of his followers are chaotic neutral.  Followers are anarchistic, always sowing seeds of destruction. ([[Slack Session 8 .5 - Regendy (1242-04-10)|ref]])
+God of war and slaughter, referred to as The Many because he has many forms.  He often appears as a beast/gnoll.  He is **chaotic evil**, though some of his followers are chaotic neutral.  Followers are anarchistic, always sowing seeds of destruction. ([[Session 8 .5 - Slack Regendy (1242-04-10)|ref]])
 
 - 300' tall
 
