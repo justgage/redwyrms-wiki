@@ -1,5 +1,6 @@
 
 ## Session Notes
+- [[Session 10 (1242-04-11 through 1242-04-13)]]
 - [[Session 9 - Through the Looking Glass (1242-04-10)]]
 - [[Session 8 .5 - Slack Regendy (1242-04-10)]]
 - [[Session 8 - The Itsy Bitsy Spiders… (1242-04-10)]]
