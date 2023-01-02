@@ -1,5 +1,5 @@
 ---
-aliases: The Party's Lair, Deln's Lair, Deln Eschondi's Lair
+aliases: The Party's Lair, Deln's Lair, Deln Eschondi's Lair, Deln's Crypt
 ---
 
 Located in a rocky bluff in the middle of the [[Verwood Forest]]
@@ -15,7 +15,7 @@ This is where the party encountered a spider dragon in Has a mural that depicts 
 
 # Library/Laboratory
 
-List of books found in [[Deln Eschondi Lair]].  All of these books were moved to [[Azbara Vedos, Sage]]'s hut during [[Session 10 (1242-04-11 through 1242-04-13)]].
+List of books found in [[Deln Eschondi Lair]].  All of these books were moved to [[Azbara Vedos, Sage]]'s hut during [[Session 10 - Reunited and It Feels so Good (1242-04-11 through 1242-04-13)]].
 
 1 "The Birth of the Prince"
   "Architecture of the [[Gomboro]]"

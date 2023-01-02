@@ -1,5 +1,5 @@
 ---
-aliases: The Dracolich, Fulgorus, Kazimer
+aliases: The Dracolich, Fulgorus, Kaz Imir
 ---
 
 Said to be from [[Ubayyid]] in the [[Divided Desert]].
