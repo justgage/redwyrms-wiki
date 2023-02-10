@@ -1,5 +1,5 @@
 # Naefir's Investigation
-[[Naefir]] picked up the journal in [[Deln Eschondi Lair]] lair.  He had 10 minutes for an investigation check to understand what was in the journal.  He learned that it was [[Deln Eschondi]]'s journal.  It detailed his quest to assemble [[Crown of High Tatra]].  So far he had one of the gems, but he was missing the others.  He had learned that one was in [[Meberaz]] in the [[Goblin Wastes]] on the far edge of the [[Divided Desert]].  Deln spoke often of his "master" and used a special symbol when he did (I was suspicious that this was the [[Kaz Imir (the dracolich)]], but he separately refers to Kaz-Imer and asks if he is loyal to his master).  Eschondi mentioned that he avoided touching the crown because he had felt it trying to control him a number of times. 
+[[Naefir]] picked up the journal in [[Deln Eschondi Lair]] lair.  He had 10 minutes for an investigation check to understand what was in the journal.  He learned that it was [[Deln Eschondi]]'s journal.  It detailed his quest to assemble [[Crown of High Tatra]].  So far he had one of the gems, but he was missing the others.  He had learned that one was in [[Meberaz]] in the [[Goblin Wastes]] on the far edge of the [[Divided Desert]].  Deln spoke often of his "master" and used a special symbol when he did (I was suspicious that this was the [[Kaz Imir]], but he separately refers to Kaz-Imer and asks if he is loyal to his master).  Eschondi mentioned that he avoided touching the crown because he had felt it trying to control him a number of times. 
 
 After reading it more in depth, Naefir found that it contained a number of loosely connected ideas, some of which had no clear link to the 
 
@@ -20,7 +20,7 @@ Little diamond locations
 - [[Kalendrole]] ("My 2, plus maybe 2 more")
 - King of Gordon's crown ("not likely")
 - [[Kreksnel]] ("Destroyed - what is left of Milonia - it will break apart")
-- [[Ubayyid]] (same as Kaz Imir? - A note on the Milonia map seems to question whether this really is [[Kaz Imir (the dracolich)]] Kaz Imir's lair and says that Kaz Imir is lying to him.)
+- [[Ubayyid]] (same as Kaz Imir? - A note on the Milonia map seems to question whether this really is [[Kaz Imir]] Kaz Imir's lair and says that Kaz Imir is lying to him.)
 - [[Marzuq]] (note in Divided desert map indicates "Not here! (Burned? Moved? Destroyed?)" a note on the Milonia map asks "Where is Marzuq")
 - [[Dasir]] (not on second list)
 - "[[Karak]] might have some"

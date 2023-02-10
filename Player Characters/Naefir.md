@@ -16,7 +16,7 @@ Investigate/identify the quill and paper
 # Unknowns
 (now tracked in situ as the following tags #what-does-that-mean )
 
-Who is the [[Man in the White Mask]]?  Connection to [[Shazi worm]]s?
+Who is the [[Vincent Arcandor]]?  Connection to [[Shazi worm]]s?
 
 What is the [[dracolich]] up to?  How broad are his plans?  What are his connections with [[Deln Eschondi Lair]]?
 

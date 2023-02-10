@@ -12,6 +12,6 @@ n+5 long sword
 - **Gibbous Moon**: it gets +1d8 force damage
 - **Full moon:** it gets all of the above effects
 
-[[Gil]] said that the blade semi-sentient, doesn't want to be bathed in moonlight.  The party suspects that it is a vestige of [[Lieutenant Kas]] and if it is not bathed in moonlight, Lt Kas may return.
+[[Gil]] said that the blade semi-sentient, doesn't want to be bathed in moonlight.  The sword confirmed to Gil (in [[Session 11 - Let's Make a Deal (1242-04-14)]] that it is a vestige of [[Lieutenant Kas]] and if it is not bathed in moonlight, Lt Kas may return and reward you greatly.
 
 

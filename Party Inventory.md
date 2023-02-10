@@ -4,10 +4,11 @@
 
 [[Helmet of Dwarven Sight]] (from [[Hammerstein]] )
 [[Scalpel of Accuracy and Precision]]
+The nercomantic blood potion turns out to be a vampire healing potion. The two viscous potions are Inflict Wounds Grenade. You throw them at someone and if you succeed a ranged attack, the potions do 5d10 necrotic damage. The transmutation potion is a Potion of Haste. As per the 3rd level spell.
 
 ## [[Naefir]]
 
-Enchanted Quill and paper (transmutation)
+Scroll-making ink and paper for 14 levels of spells
 Speak with Dead scroll
 
 ## [[Bob Smash]]

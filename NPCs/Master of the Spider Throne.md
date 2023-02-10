@@ -1,1 +1,0 @@
-See: [[-The Legacy of the Oath of Shadows-]]

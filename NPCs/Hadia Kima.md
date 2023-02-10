@@ -1,0 +1,1 @@
+Dark Paladin searching in the [[Gilli Plateau]] for [[The Phase Blade]].  Potentially aligned with [[Vincent Arcandor]] against the [[Cult of Vecna]]

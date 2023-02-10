@@ -3,7 +3,7 @@
 
 Many things were discovered through trial and error and exploration.
 
-They cast **Speak with Dead** on the body of the Red Dragon elf lady (see [[Flarina, the female red dragon]]) and found that [[Kaz Imir (the dracolich)]] was after the jewels in her treasure hoard.
+They cast **Speak with Dead** on the body of the Red Dragon elf lady (see [[Flarina, the female red dragon]]) and found that [[Kaz Imir]] was after the jewels in her treasure hoard.
 
 [[Gil]] placed the two diamonds into the [[Crown of High Tatra]] and put on the crown and lost control of himself for a time.  He took 6 psychic damage when Rufex finally succeeded on taking it off of him.
 
@@ -15,7 +15,7 @@ The secret door north out of the laboratory was found to lead to an underground 
 
 [[Chaucerian]] used the crystal ball to look for his daughter, [[Clarity]]. He was able to see her. She was in an alley in what looked like a large desert city (presumably [[Bur-Aswan]]). She traveled through the streets for a bit and ended up in a dark room with a few other kids. She was on a pickpocketing mission and did not succeed.
 
-The ball was also used by [[Kem]] to look for the [[Man in the White Mask]]. They discovered that he was completely made up of worms and bugs. He could see him cross a large bridge over a wide river and make his way into a mausoleum with the name [[Vincent Arcandor]] (written in Aswanian) over the door. He made an offer to Kem but Kem instead told him, “I am coming for you!”
+The ball was also used by [[Kem]] to look for the [[Vincent Arcandor]]. They discovered that he was completely made up of worms and bugs. He could see him cross a large bridge over a wide river and make his way into a mausoleum with the name [[Vincent Arcandor]] (written in Aswanian) over the door. He made an offer to Kem but Kem instead told him, “I am coming for you!”
 
 [[Darkus]] used the crystal ball to seek out his mother, but the scry spell did not work. Then the masked man interrupted the spell and made an offer to Darkus. He wanted help dealing with a [[cult of Vecna]] and would help Darkus find his family.
 
@@ -25,7 +25,7 @@ Then they went through the one-way portal into what they were told was the ruins
 
 He got through the door and entered a room with four statues of old kings. They killed two kobolds and noticed the kings were all wearing the crown of high tatra.
 
-They left the statue room and ended up in an intersection of hallways with awesome levers on the wall and tiles on the floor. The levers needed to be pulled in some order and the party figured it out through trial and error and mage hand setting off numerous traps along the way. Once they were pulled in the proper order, the center tile started to descend into the ground. It went into a large cavern with a chest on the ground and a lantern hanging on a hook. The chest was a mimic which they fought and killed and after casting identify, they found out [[the lantern]] was the phylactery of [[Kaz Imir (the dracolich)]] who now somehow knows they have it in their possession.
+They left the statue room and ended up in an intersection of hallways with awesome levers on the wall and tiles on the floor. The levers needed to be pulled in some order and the party figured it out through trial and error and mage hand setting off numerous traps along the way. Once they were pulled in the proper order, the center tile started to descend into the ground. It went into a large cavern with a chest on the ground and a lantern hanging on a hook. The chest was a mimic which they fought and killed and after casting identify, they found out [[the lantern]] was the phylactery of [[Kaz Imir]] who now somehow knows they have it in their possession.
 
 [[Wyrmsbane]]:
 
@@ -46,7 +46,7 @@ Next Session – 30 December 2022
 ## Gage's Notes
 - Skryed [[Chaucerian]]'s daugher [[Clarity]]
 	- She was in [[Bur-Aswan]], alive
-- [[Kem]] watched [[Man in the White Mask]]
+- [[Kem]] watched [[Vincent Arcandor]]
 - [[Darkus]] saw him too instead of my Mother
 	- "Who are you!?"
 	- "Not much left of me these days", Spiders are excited by talking to him
@@ -71,7 +71,7 @@ Next Session – 30 December 2022
 	- ([[Vampire]]s can't cross running water!)
 	- Go ahead through middle path to a secret door to this temple of [[Boccob]] ([[Deln Eschondi Lair]])
 - Cast speak with dead with [[Flarina, the female red dragon]]
-	- Why where you fighting [[Kaz Imir (the dracolich)|Kazimer]]? 
+	- Why where you fighting [[Kaz Imir|Kazimer]]? 
 		- "He was stealing my Diamonds!"
 - We go through the existing portal
 	- After walking through it the portal is ONE WAY!

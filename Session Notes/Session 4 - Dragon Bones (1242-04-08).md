@@ -10,7 +10,7 @@ The sage tower was small – only ten feet across and two stories tall. It appea
 
 He told them a lot of information about [[Galleon Curth]], the Silver Dragonborn Paladin of Pelor, who had died in this region after helping [[King Orlan Baswerk]] defeat three blue dragons in the Mist Bay area. No one knows where exactly he died or how it happened but it was assumed he was killed by a dragon.
 
-They heard noise outside where they had left Matrick and a skeletal lake serpent was in the water near the boy and it was being fought by a rather tall dwarf with a halberd. The party joined the battle and defeated the lake beast with the help of Azbara. It was assumed that when the [[Kaz Imir (the dracolich)]] flew over the lake, its necrotic powers had given life to the skeleton of the ancient beast. 
+They heard noise outside where they had left Matrick and a skeletal lake serpent was in the water near the boy and it was being fought by a rather tall dwarf with a halberd. The party joined the battle and defeated the lake beast with the help of Azbara. It was assumed that when the [[Kaz Imir]] flew over the lake, its necrotic powers had given life to the skeleton of the ancient beast. 
 
 The party also discovered that two skeletons from the graveyard in [[Swan Field]] had risen from the grave and were put down by the guard in town.
 

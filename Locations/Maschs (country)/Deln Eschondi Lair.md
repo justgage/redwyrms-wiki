@@ -4,7 +4,7 @@ aliases: The Party's Lair, Deln's Lair, Deln Eschondi's Lair, Deln's Crypt
 
 Located in a rocky bluff in the middle of the [[Verwood Forest]]
 Doors are disguised, there's a trap in the entry area
-Was visited by the [[Kaz Imir (the dracolich)]]
+Was visited by the [[Kaz Imir]]
 Appears to have been an ancient shrine to [[Boccob]] with a library, a reading room, and a room for the shrine keeper to live in. Deln has since repurposed these.
 
 # Entryway

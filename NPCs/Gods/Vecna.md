@@ -1,3 +1,9 @@
+---
+alias: The Master of the Spider Throne
+---
+
+See: [[-The Legacy of the Oath of Shadows-]]
+
 The first and greatest of all liches. The god of secrets.
 
 - Once was a man, became a #God

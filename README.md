@@ -1,5 +1,7 @@
 
 ## Session Notes
+- [[Session 11 - Let's Make a Deal (1242-04-14)]]
+- [[Session 10.5 - Slack Regendy]]
 - [[Session 10 - Reunited and It Feels so Good (1242-04-11 through 1242-04-13)]]
 - [[Session 9 - Through the Looking Glass (1242-04-10)]]
 - [[Session 8 .5 - Slack Regendy (1242-04-10)]]

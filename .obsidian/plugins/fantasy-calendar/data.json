@@ -541,6 +541,19 @@
           "end": null,
           "description": "",
           "auto": true
+        },
+        {
+          "id": "ID_b9e988893819",
+          "name": "Session 11 - Let's Make a Deal (1242-04-14)",
+          "note": "Session Notes/Session 11 - Let's Make a Deal (1242-04-14).md",
+          "date": {
+            "year": 1242,
+            "month": 3,
+            "day": 14
+          },
+          "end": null,
+          "description": "",
+          "auto": true
         }
       ],
       "id": "ID_5a4b09fb3a98",

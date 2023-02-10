@@ -9,7 +9,7 @@
 - [[Kem]] takes out the gizzard of the [[Spider Dragon]] and discovers it has evocation magic and can produce magical flames that **_double the spiders it touches_**. [[#^97b26e]]
 - [[Naefir]] Reads [[-Castle Baswerk and the Tales of King Orlan Baswerk-]] and [[-The History of the Kings and Queens of Masch-]]
 - [[Naefir]] Reads [[-Castle Baswerk and the Tales of King Orlan Baswerk-]] and [[-The History of the Kings and Queens of Masch-]] and [[-Hextor's Hammer Crater and the Blow that Shook the World-]]
-- [[Kem]] looked for information about the [[Man in the White Mask]] and read [[-Monsters of the Divided Desert and the High Plateau-]] and [[-The Legacy of the Oath of Shadows-]]
+- [[Kem]] looked for information about the [[Vincent Arcandor]] and read [[-Monsters of the Divided Desert and the High Plateau-]] and [[-The Legacy of the Oath of Shadows-]]
 
 ## Raw Thread
 
@@ -322,7 +322,7 @@ Slowly kem heads to the library too. Definitely would only have time to browse f
 
 [7:52](https://homeschool-dads.slack.com/archives/C04A3PEQY6S/p1668523929740919)
 
-[[Kem]] is browsing for information on the [[Man in the White Mask|white masked man]]. He looks through the books he is taking and notes:  
+[[Kem]] is browsing for information on the [[Vincent Arcandor|white masked man]]. He looks through the books he is taking and notes:  
  > The legacy of the oath of shadows older edition  
 He thinks that might be a good place to start but quickly browses titles of books for anything referencing bugs, (white) masks, dream visitors, or an encyclopedia of kinds of evil beings.
 

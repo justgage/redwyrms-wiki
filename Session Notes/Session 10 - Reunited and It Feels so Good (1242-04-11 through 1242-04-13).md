@@ -1,8 +1,8 @@
-
+#Session 
 ## Dan Ferris Summary
 Session 10: Reunited and It Feels so Good – Spring 1242 – First Year of the Reign of Queen Adele (April 10-13)
 
-The party discussed what should be done with the phylactery of [[Kaz Imir (the dracolich)|Kaz Imir]] and came up with numerous ideas. They finally settled on [[Gil]] using it to contact the dracolich and then blackmail him with it so he would do their bidding. Gil grabbed the lantern and spoke with Kaz Imir for a few moments (rolling an 18 for deception and a natural 20 for persuasion). He then told the party that he had told Kaz Imir that he would return [[the phylactery]] after Kaz Imir did three tasks for him. The first of those tasks was to kill [[Dervin Eschondi]] and leave his body at the entrance to [[Deln Eschondi Lair|Deln's crypt]] . Once Kaz Imir had finished that task, Gil would contact him again with task number two. Kaz Imir agreed to the first task.
+The party discussed what should be done with the phylactery of [[Kaz Imir|Kaz Imir]] and came up with numerous ideas. They finally settled on [[Gil]] using it to contact the dracolich and then blackmail him with it so he would do their bidding. Gil grabbed the lantern and spoke with Kaz Imir for a few moments (rolling an 18 for deception and a natural 20 for persuasion). He then told the party that he had told Kaz Imir that he would return [[the phylactery]] after Kaz Imir did three tasks for him. The first of those tasks was to kill [[Dervin Eschondi]] and leave his body at the entrance to [[Deln Eschondi Lair|Deln's crypt]] . Once Kaz Imir had finished that task, Gil would contact him again with task number two. Kaz Imir agreed to the first task.
 
 The party then left the phylactery in the cavern and went through the portal back to Deln’s lair. They then used [[Gillious]] to open a portal to [[Azbara’s tower]] and then took all the books through to the old sage who was thrilled to have them added to his library. Azbara was very friendly to the party again and opened up a new bookshelf in his library for the books. He also hinted that he had no heir and would be happy to take on a new sage.
 

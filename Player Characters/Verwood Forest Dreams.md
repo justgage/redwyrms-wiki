@@ -6,7 +6,7 @@ Naefir has some strange dreams while sleeping near the edge of the [[Verwood For
 
 ## Kem's Dream
 
-Of the [[Man in the White Mask]]
+Of the [[Vincent Arcandor]]
 
 ## Rufex
 [[Rufex]] has some strange dreams while sleeping near the Verwood Forest. He is underground and searching for but after dreaming a while, it becomes clear. Diamonds. He has two small perfect diamonds in his left hand and he is looking for more. He walks into a room filled with treasure... more treasure than anything he has ever imagined in one place. Gold coins piled high. Gemstones. Jeweled armor and swoards. It is truly glorious but he doesn't seem to care one bit about any of it. He moves past all the treasure as he continues his search. Finally he sees what he is looking for. A large diamond 3" in diameter and beautifully cut. It is glorious and hums with its own energy the room also hums with energy as Rufex feels the heat and fire of dragon's breath. Right as his hands grabs onto the diamond, he wakes up.
